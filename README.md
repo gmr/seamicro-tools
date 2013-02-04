@@ -8,8 +8,8 @@ on and off servers.
 
 Installation
 ------------
-Run "python setup.py" in the main directory which will install a seamicro-tools
-script in a common path.
+Run "python setup.py install" in the main directory which will install a
+seamicro-tools script in a common path.
 
 Currently supported commands
 ----------------------------

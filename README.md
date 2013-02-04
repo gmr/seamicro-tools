@@ -21,13 +21,8 @@ Example Use
 
     bash$ seamicro-tools admin.seamicro.myhost.com tech-support-bundle -c c-1234 -d ~/Desktop/c-1234
 
-Command Line Use
+Command Line Options
 --------------------
-
-    usage: test.py [-h] [-u USER] [-p PASSWORD] [--hostname HOSTNAME]
-                   host {tech-support-bundle} ...
-
-    Tools to ease Seamicro Administration
 
     positional arguments:
       host                  The chassis administration host
@@ -45,7 +40,6 @@ Command Line Use
                               seamicro
 
     tech-support-bundle optional arguments:
-
       -c CASE, --case CASE    The existing support case #
       -d DESTINATION, --destination DESTINATION
                               The directory to place the files

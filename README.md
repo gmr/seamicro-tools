@@ -2,9 +2,9 @@ seamicro-tools
 ==============
 
 Command line application for automating or easing the use of the administration
-UI. Currently only supports generating the files requested by tech support but
-will include other commands (as I finish porting them over) such as powering on
-and off servers.
+console. Currently only supports generating the files requested by tech support
+but will include other commands (as I finish porting them over) such as powering
+on and off servers.
 
 Installation
 ------------
